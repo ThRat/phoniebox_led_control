@@ -4,7 +4,7 @@
 #Version: 1.1 - 20210306
 #branch="development"
 #OneLineInstaller: rm /tmp/install_ledb.sh > /dev/null  2>&1; wget https://raw.githubusercontent.com/splitti/phoniebox_led_control/master/scripts/install.sh -qO /tmp/install_ledb.sh; chmod +x /tmp/install_ledb.sh; /tmp/./install_ledb.sh; rm /tmp/install_ledb.sh > /dev/null  2>&1 
-repo="https://github.com/splitti/phoniebox_led_control"
+repo="https://github.com/ThRat/phoniebox_led_control"
 branch="master"
 
 nocolor='\e[0m'
@@ -34,7 +34,7 @@ echo -e "///${cyan}                                                             
 echo -e "///${cyan}                                                                                                             ${nocolor}///";
 echo -e "////////////////////////////////////////////////////////////////////////////////////////////////////////////////////"
 echo -e "///                                                                                                              ///"
-echo -e "///${cyan}                                  https://github.com/splitti/phoniebox_led_control                           ${nocolor}///";
+echo -e "///${cyan}                                  https://github.com/ThRat/phoniebox_led_control             ${nocolor}///";
 echo -e "///                                                                                                              ///"
 echo -e "////////////////////////////////////////////////////////////////////////////////////////////////////////////////////"
 echo -e ""
